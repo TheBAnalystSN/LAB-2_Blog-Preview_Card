@@ -1,8 +1,11 @@
-What accessibility challenges did you face, and how did you address them?
-I ensured proper color contrast ratios using HSL values and added descriptive alt text to images. I also used keyboard-focusable links with visible hover/focus states.
+1. How did using Figma designs as references affect your coding process?
 
-How did you ensure that your design was responsive and accessible to all users?
-I used a mobile-first approach with flexible widths and scalable font sizes, ensuring the card adapts across devices. All text elements maintain readable color contrast and spacing.
+Using Figma as a reference gave me a clearer visual understanding of spacing, typography, and alignment, which helped me write cleaner and more intentional CSS. Having access to exact font sizes, colors, and layout dimensions made it easier to maintain design consistency and build a component that looked professional.
 
-What tools or resources did you find most helpful during this project?
-Figma for design reference, WebAIM Color Contrast Checker, and Frontend Mentor’s style guide were essential for maintaining accuracy and accessibility.
+2. What challenges did you encounter when aligning your code with the design specifications?
+
+One of the biggest challenges was achieving perfect alignment and spacing across different screen sizes while keeping the design responsive. Small differences in padding, font weight, or border radius made noticeable changes to the overall look. I had to carefully adjust margins and use relative units (like rem and vh/vw) to ensure the layout adapted well. Another challenge was matching the hover.
+
+3. How can the feedback and community resources on Frontend Mentor help you improve as a developer?
+
+The Frontend Mentor community provides valuable peer feedback from other developers with different skill levels and perspectives. Reviewing other people’s code and receiving suggestions on mine helps me identify new techniques, better structure my HTML, and optimize my CSS. The feedback loop encourages continuous learning, exposes me to alternative solutions, and builds the kind of collaborative mindset that’s essential in real-world development.
