@@ -1,0 +1,8 @@
+What accessibility challenges did you face, and how did you address them?
+I ensured proper color contrast ratios using HSL values and added descriptive alt text to images. I also used keyboard-focusable links with visible hover/focus states.
+
+How did you ensure that your design was responsive and accessible to all users?
+I used a mobile-first approach with flexible widths and scalable font sizes, ensuring the card adapts across devices. All text elements maintain readable color contrast and spacing.
+
+What tools or resources did you find most helpful during this project?
+Figma for design reference, WebAIM Color Contrast Checker, and Frontend Mentor’s style guide were essential for maintaining accuracy and accessibility.
