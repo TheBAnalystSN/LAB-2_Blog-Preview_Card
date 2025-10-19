@@ -7,7 +7,7 @@
   --font-main: 'Figtree', sans-serif;
 }
 
-    {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -90,7 +90,7 @@ body {
   margin-bottom: 1.5rem;
 }
 
-/* Author */
+/* Author Section */
 .author {
   display: flex;
   align-items: center;
