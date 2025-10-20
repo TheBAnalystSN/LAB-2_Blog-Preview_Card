@@ -3,9 +3,7 @@
 This is my solution to the [Frontend Mentor Blog Preview Card Challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).  
 Frontend Mentor challenges help you improve your coding skills by building realistic projects from professional Figma designs.
 
----
-
-## 📖 Overview
+## Overview
 
 ### The Challenge
 Users should be able to:
@@ -20,7 +18,7 @@ Users should be able to:
 
 ---
 
-## 💻 My Process
+## My Process
 
 ### Built With
 - Semantic **HTML5** markup  
@@ -41,7 +39,7 @@ I practiced pixel-perfect alignment based on a Figma reference and refined hover
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository:
    ```bash
